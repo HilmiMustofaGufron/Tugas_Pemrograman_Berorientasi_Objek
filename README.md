@@ -18,7 +18,7 @@ Pertama kita harus membuat Class yang berisi Method yang berfungsi untuk menjadi
 
 Setelah itu kita membuat Class sebagai output dari objek yang telah dibuat
 1. Code untuk memanggil Method yang telah dibuat
-![Alt Text](https://drive.google.com/file/d/1Re2ZuRk8OkAcIBnpwq90DPCy5KLJX-Ue/view?usp=sharing)
+![Alt Text](https://drive.google.com/drive/folders/1i0iCcUf32sfEYVDi5YNBFbxqg7MRmxKO?dmr=1&ec=wgc-drive-hero-goto)
 2. Code untuk Output Hasil dari Progam
 ![Alt Text](https://drive.google.com/file/d/1HY6XLwF3ozI4cHEpSzDkErY-ysuSIj4h/view?usp=sharing)
 

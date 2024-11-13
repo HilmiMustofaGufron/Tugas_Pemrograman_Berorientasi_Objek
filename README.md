@@ -20,7 +20,7 @@ Setelah itu kita membuat Class sebagai output dari objek yang telah dibuat
 1. Code untuk memanggil Method yang telah dibuat
 ![https://drive.google.com/file/d/1Re2ZuRk8OkAcIBnpwq90DPCy5KLJX-Ue/view?usp=sharing]
 2. Code untuk Output Hasil dari Progam
-![Alt Text](https://drive.google.com/file/d/1HY6XLwF3ozI4cHEpSzDkErY-ysuSIj4h/view?usp=sharing)
+![https://drive.google.com/file/d/1HY6XLwF3ozI4cHEpSzDkErY-ysuSIj4h/view?usp=sharing]
 
 Hasil Running dari Progam Tersebut
 ![Alt Text](https://drive.google.com/file/d/1RCj_595bKuDxsaPQ9c1PMl-HVWMhvG_d/view?usp=sharing)
